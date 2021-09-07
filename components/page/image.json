@@ -7,7 +7,7 @@
   },
   "options": {},
   "attributes": {
-    "image": {
+    "Image": {
       "model": "file",
       "via": "related",
       "allowedTypes": [
